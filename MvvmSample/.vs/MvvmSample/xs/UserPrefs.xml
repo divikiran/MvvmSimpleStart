@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{F7C7EDD8-8D79-4472-8646-1BF46F67C706}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvvmSample/MainViewModel.cs">
+    <Files>
+      <File FileName="MvvmSample/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="MvvmSample/MainViewModel.cs" Line="35" Column="32" />
+      <File FileName="MvvmSample/MainPage.xaml.cs" Line="28" Column="1" />
+      <File FileName="MvvmSample/App.xaml.cs" Line="15" Column="1" />
+      <File FileName="MvvmSample.iOS/AppDelegate.cs" Line="29" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MvvmSample.Android PreferredExecutionTarget="Android.my_device" />
+  <MonoDevelop.Ide.ItemProperties.MvvmSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E33EDC5A-F59A-4082-BF38-6D20A7E49FB4" />
+</Properties>
